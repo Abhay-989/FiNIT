@@ -45,7 +45,7 @@ code {
     line-height: 1.5rem;
   }
 }
-@media (min-width: 1024px) {
+@media (min-width: 1025px) {
   .letter,.word{
     position: relative;
     left: 110px;
@@ -54,6 +54,12 @@ code {
     position: relative;
     right: -70px;
   }
+
+  
+}
+
+@media (min-width: 1025px) {
+ 
   .mainbuilding,
   .ourmission {
     max-width: 400px;
@@ -61,7 +67,27 @@ code {
   }
   
 }
-@media (max-width: 900px) {
+
+@media (orientation:landscape) {
+ 
+  .mainbuilding,
+  .ourmission {
+    max-width: 35vw;
+    margin-right: 10px;
+  }
+  .cardss{
+    width: 510px;
+   
+  }
+  .cardss img{
+width: 475px !important;
+   
+  }
+  
+}
+
+
+@media (max-width: 1023px) {
   .mainbuilding,
   .ourmission {
     width:100vw ; 
@@ -292,7 +318,7 @@ code {
 }
 
 /* ////////////////////////////////////////// */
-@media(max-width:800px){
+@media(max-width:1000px){
 
   /* navbar */
   .navbar{
