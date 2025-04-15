@@ -298,7 +298,7 @@ function Hero() {
               <p className='text-black mb-5'>Event Manager</p>
               </div>
               <div className="picture col-4 text-center" style={{background:"#0fc",width:"19rem",marginRight:"110px"}}>
-              <img src='./media/bhavyaailani.png' className='imgp mt-5 ms-5 me-5 mb-4'/>
+              <img src='./media/bhavayaallani.png' className='imgp mt-5 ms-5 me-5 mb-4'/>
               <h4 className='text-black fw-bold'>Bhabvya Ailani</h4>
               <p className='text-black mb-5'>Sponsorship Executive</p>
               </div>
