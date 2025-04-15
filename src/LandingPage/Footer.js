@@ -6,7 +6,7 @@ function Footer() {
       <div className="row mt-5 ">
        
         <div className="col mb-6"><br/>
-        <img src="media/finit2.png" style={{ width: "20%",margin:" 1px0 0 10px 0 " }} /><br/>
+        <img src="media/finit2.png"  className="finit2" /><br/>
         
           <a href="" className="text-light " style={{textDecoration:"none",margin:"10px 0 30px 0"}}> FiNIT - The Finance Society</a>
           <br /><br/>

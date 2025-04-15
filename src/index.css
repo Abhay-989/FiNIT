@@ -81,6 +81,9 @@ code {
 .finitbtn {
   border-radius: 22px;
   border: none;
+ width: 40% ;
+ margin: 0 auto ;
+ background-color:rgb(20 184 166 );
 }
 .finitbtn:hover{
   background-color: #b974f1;
@@ -123,7 +126,10 @@ code {
 .cardss {
   display: inline-block; 
 
-
+.finit2{
+  width: 20%  ;
+ margin: 10px 0 80px 0 ;
+}
   
 }
 
@@ -312,6 +318,9 @@ code {
   position: relative;
   right: 90px;
   padding: 50px 0 0 0;
+}
+.finitbtn{
+  width: 160px;
 }
 
 /* about */

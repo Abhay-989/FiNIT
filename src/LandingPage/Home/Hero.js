@@ -13,7 +13,7 @@ function Hero() {
 <br/><br/>
 <button
           className="finitbtn p-2 text-light fs-5 "
-          style={{ width: "40%", margin: "0 auto" ,backgroundColor:"rgb(20 184 166 )"}}
+       
         >
           FiNIT Brochure 
         </button><br/><br/>
